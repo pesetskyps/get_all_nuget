@@ -25,7 +25,7 @@ namespace get_packages_all
             {
                 Console.WriteLine(package.GetFullName());
                 downloader.Download(package);
-                //Console.ReadLine();
+                //Console.ReadLine();hell
             }
             
         }
